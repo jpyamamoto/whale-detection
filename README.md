@@ -1,6 +1,6 @@
 # Redes Neuronales: Proyecto Final
 
-> Juan Pablo Yamamoto Zazueta
+> Juan Pablo Yamamoto Zazueta  
 > [jpyamamoto@ciencias.unam.mx](mailto:jpyamamoto@ciencias.unam.mx)
 
 ## Instruciones
